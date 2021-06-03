@@ -1,0 +1,10 @@
+{"Item":[  
+    {"name":"Paneer Tika Pizza", "price": 249},  
+    {"name":"Golden Corn Pizza", "price": 230},
+	{"name":"Veg Supreme Pizza", "price":340},
+	{"name":"chicken Tikka", "price": 450},
+	{"name":"chicken Keema", "price": 550},
+	{"name":"chicken Peparoni Pizza", "price": 450},
+	{"name":"pepsi", "price": 57},
+	{"name":"coke", "price": 57}
+]} 
